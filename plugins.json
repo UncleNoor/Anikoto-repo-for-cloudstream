@@ -1,8 +1,11 @@
 [
   {
-    "name": "anikoto",
-    "pluginClassName": "com.example.anikoto.AniKotoProvider",
+    "name": "AniKoto",
+    "description": "Anime streaming provider",
     "version": 1,
-    "url": "plugins/AniKotoProvider.cs3"
+    "author": "UncleNoor",
+    "pluginClassName": "com.example.anikoto.AniKotoProvider",
+    "url": "https://raw.githubusercontent.com/UncleNoor/Anikoto-repo-for-cloudstream/main/plugins/AniKotoProvider.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/UncleNoor/Anikoto-repo-for-cloudstream/main/icon.png"
   }
 ]

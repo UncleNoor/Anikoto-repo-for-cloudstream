@@ -3,6 +3,6 @@
   "description": "ANIMEEEEEEEEEEEEEEEEEEEEEEE",
   "manifestVersion": 1,
   "pluginLists": [
-      "https://raw.githubusercontent.com/UncleNoor/Anikoto-repo-for-cloudstream/refs/heads/main/plugins.json"
-    ]
+    "https://raw.githubusercontent.com/UncleNoor/Anikoto-repo-for-cloudstream/main/plugins.json"
+  ]
 }
