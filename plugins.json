@@ -1,0 +1,8 @@
+[
+  {
+    "name": "anikoto",
+    "pluginClassName": "com.example.anikoto.AniKotoProvider",
+    "version": 1,
+    "url": "plugins/AniKotoProvider.cs3"
+  }
+]
