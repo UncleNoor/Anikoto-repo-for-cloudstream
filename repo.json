@@ -1,7 +1,7 @@
 {
   "name": "Noor's CloudStream Repository",
   "description": "ANIMEEEEEEEEEEEEEEEEEEEEEEE",
-  "manifestVersion": 1
+  "manifestVersion": 1,
   "pluginLists": [
       "https://raw.githubusercontent.com/UncleNoor/Anikoto-repo-for-cloudstream/refs/heads/main/plugins.json"
     ]
